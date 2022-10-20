@@ -1,0 +1,32 @@
+html, body {
+    margin: 0; 
+}
+
+.header, .main {
+    background-color: #D9D7F1;
+}
+
+.header {
+    text-align: center;
+}
+
+.main {
+    height: 100vh;
+    display: grid; 
+    justify-content: center;
+}
+
+#gameContainer {
+    display: grid;
+    grid-template-columns: repeat(3, 100px);
+    grid-template-rows: repeat(3, 100px);
+    width: 300px;
+
+}
+
+#a1, #a2, #a3, #b1, #b2, #b3, #c1, #c2, #c3{
+    border: 2px solid white;
+    align-content: center;
+    justify-content: center;
+    display: grid; 
+}
