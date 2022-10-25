@@ -4,9 +4,9 @@
 
 ✅ 2) Set up your HTML and write a JavaScript function that will render the contents of the gameboard array to the webpage (for now you can just manually fill in the array with "X"s and "O"s)
 
-3) Build the functions that allow players to add marks to a specific spot on the board, and then tie it to the DOM, letting players click on the gameboard to place their marker. Don’t forget the logic that keeps players from playing in spots that are already taken!
+✅3) Build the functions that allow players to add marks to a specific spot on the board, and then tie it to the DOM, letting players click on the gameboard to place their marker. Don’t forget the logic that keeps players from playing in spots that are already taken!
 
-4) Build the logic that checks for when the game is over! Should check for 3-in-a-row and a tie.
+✅4) Build the logic that checks for when the game is over! Should check for 3-in-a-row and a tie.
 
 5) Clean up the interface to allow players to put in their names, include a button to start/restart the game and add a display element that congratulates the winning player!
 
